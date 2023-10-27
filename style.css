@@ -1,0 +1,60 @@
+body {
+	background-color: #202124;
+}
+
+strong {
+   color:rgb(255, 255, 255);
+   font-family: verdana;
+
+}
+
+p {
+   color: white;
+   font-size: 17px;
+   font-family: verdana;
+
+}
+
+h1 {
+   color:rgb(189,193,198);
+   text-align: center;
+   font-family: verdana;
+   margin-left: auto;
+   margin-right: auto;
+
+}
+
+h2 {
+   color:rgb(189,193,198);
+
+   font-family: verdana;
+   margin-left: auto;
+   margin-right: auto;
+
+}
+
+img{
+	width: 200px;
+	display: block;
+
+}
+
+img1{
+	width: 100px;
+	display: block;
+
+}
+
+
+sup {
+   color: rgb(219, 153, 31);
+   font-size: 25px;
+   font-family: verdana;
+
+}
+a{
+   color:  #2ea796;
+}
+a:hover{
+   color: #692070;
+}
